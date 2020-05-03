@@ -1,2 +1,1 @@
-# next-boilerplate
-a boilerplate with next
+This is a starter template for [Learn Next.js](https://nextjs.org/learn).
